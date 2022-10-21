@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ABD News</string>
+    <string name="no_data_to_show">No Data To Show</string>
+    <string name="description">Description</string>
+    <string name="headline">HeadLine</string>
+    <string name="author">Author</string>
+    <string name="label_retry">Retry</string>
+    <string name="label_sort">Sort</string>
+    <string name="label_title">Title</string>
+    <string name="label_date">Date</string>
+</resources>
